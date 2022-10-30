@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.activbalance.co.uk	TRUE	/	FALSE	1999999999	hs	-277081199
+www.activbalance.co.uk	TRUE	/	FALSE	1999999999	svSession	5bd2dfeda85de5990bf72500e4c9a4dccdb2b337d90675571cd74a4d7f4bc8dcf8e5db6713788d8e82821d32c71e1b031e60994d53964e647acf431e4f798bcd2c2ae598a533f4380a6657f19972f197c627972ca816e89a5bbaf76114f0b89b9e1b51ed7f11776d472d116ce90b1dbc52f8600746e6cd6ece98a686845d43e746762fef1a9adeabbd458532f543a18c
+www.activbalance.co.uk	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038369|ab7r0Tbflodp
+www.activbalance.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.activbalance.co.uk	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
